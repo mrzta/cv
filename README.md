@@ -63,13 +63,21 @@ In addition to my DevOps expertise, I bring a wealth of knowledge in Security Op
 | Category                                   | Skills / Tools                                         |
 |--------------------------------------------|--------------------------------------------------------|
 | **Cloud Services**                         | Azure, AWS                                             |
+|                                            | Azure VMs, Networking, IaaS, PaaS Services             |
+|                                            | Azure Sentinel                                         |
+|                                            | Azure DevOps                                           |
+|                                            | Azure CLI                                              |
+|                                            | Azure Kubernetes Service                               |
+|                                            | IAM, EC2, RDS, S3, CloudFront, CloudTrail, CloudWatch   |
 | **Version Control**                        | Git, GitHub, BitBucket                                 |
 | **Continuous Integration/Deployment**      | TeamCity, Jenkins, Octopus Deploy                      |
 | **Containerization**                       | Docker, Kubernetes                                     |
 | **Infrastructure as Code and Deployment**  | Terraform, Ansible, Puppet                             |
 | **Web Servers**                            | IIS, Nginx, Apache                                      |
 | **Security**                               | OWASP, White Source Bolt, Fortinet, Palo Alto          |
-| **Logging and Monitoring**                 | Kibana, Grafana, Prometheus, etc.                       |
+| **Logging and Monitoring**                 | Kibana, Grafana, Prometheus, Azure Monitor, Azure Log Analytics, Azure Application Insights, Azure Monitor for Containers, Azure Security Center, Azure Sentinel |
 | **Programming Languages**                  | C#, PowerShell, Python, Bash                           |
-| **Certifications**                         | Microsoft Certified: Azure DevOps Expert, AWS Cloud Practitioner |
-
+| **Databases**                              | Azure SQL Database, Cosmos DB, MySQL, PostgreSQL, Aurora DB |
+| **Others**                                 | VMWare, Hyper-V, Dynatrace                             |
+| **Certifications**                         | Microsoft Certified: AZ-400 – Microsoft Azure DevOps Expert |
+|                                            | AWS Certified: AWS Cloud Practitioner                  |
