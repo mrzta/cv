@@ -41,6 +41,21 @@ In addition to my DevOps expertise, I bring a wealth of knowledge in Security Op
 - Utilized monitoring tools like Log Analytics, Grafana, and Elastic Stack for comprehensive infrastructure monitoring.
 - Collaborated on B2C SSO architecture projects, coordinated overseas initiatives, and provided architectural support.
 
+### DevSecOps L2 Engineer - UK Home Office
+**From**: *April 2021 – July 2021*
+- Served as a Level 3 Security, Logging, Reporting, and Troubleshoot Engineer, monitoring the DSAB infrastructure based on Kubernetes Microservice Architecture and hosted on AWS.
+
+### DevOps Engineer - South Gloucestershire Council
+**From**: *Feb 2021 – April 2021*
+- Managed build and release pipelines, including deployment to Azure App Service and Dynamics 365. Involved in administering Azure AD, Dynamics 365, and Power Platform, and implementing practices to shift security left.
+
+### DevSecOps Consultant - General Dynamics
+**From**: *March 2019 – February 2021*
+- Worked with Technical Architects and Information Security Officer, designed and implemented robust procedures for deployment to internal and external environments to minimize downtime and proactively address information security risks through principles of shared responsibility across Microsoft Azure.
+
+### DevOps Engineer - Bristol City Council
+**From**: *September 2018 – March 2019*
+- Developed DevOps principle and recommended approach for the development and delivery of the system by using the best practices of DevOps. Introduction of SonarQube into the Azure DevOps CI/CD system, GitHub repository management for open source and closed source systems.
 ---
 
 ## Core Competencies
