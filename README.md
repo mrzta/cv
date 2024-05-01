@@ -26,7 +26,7 @@ In addition to my DevOps expertise, I bring a wealth of knowledge in Security Op
 ## Professional Experience
 
 ### L2 Security Engineer (SOC) - Government Department
-**From**: *July 2023 – Present*
+**From**: *July 2023 – March 2024*
 - Monitor and analyze security alerts using SIEM tools to detect and respond to potential security incidents.
 - Lead incident response efforts, including containment, eradication, and recovery, collaborating with cross-functional teams.
 - Conduct malware analysis and digital forensics investigations to understand and mitigate security breaches.
